@@ -1,6 +1,6 @@
 # MewRecorder
 Video/Audio recorder for Telemed ultrasound machine. 
-v1.4 
+v1.4.1
 
 
 <p align="center"><img src="./Screenshots/MWR_main-screen.png" width="450"></p>
@@ -88,5 +88,6 @@ See the GNU General Public License for more details.
 v1.2.4 updated: 13MAR2024
 v1.3 updated: 22AUG2025  Supports up to 4 audio channels.
 v1.4 updated: 5FEB2026  Made compatible with AAA sync-stretch box.
+v1.4.1 updated: 14FEB2026 Improved automatic detecing Temeled Sync pulses.
    
 - The time-synchonization port should be connected to the second channel of the audio inputs. 
